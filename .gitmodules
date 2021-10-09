@@ -1,0 +1,8 @@
+[submodule "hr-countDuplicate"]
+	path = hr-countDuplicate
+	url = https://github.com/aysf/hr-countDuplicate.git
+	branch = main
+[submodule "hr-deleteProducts"]
+	path = hr-deleteProducts
+	url = https://github.com/aysf/hr-deleteProducts.git
+	branch = master
